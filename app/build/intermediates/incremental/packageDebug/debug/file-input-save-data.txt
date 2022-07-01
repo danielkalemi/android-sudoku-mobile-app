@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Sep 19 18:06:22 EEST 2020
+0.baseType=DIRECTORY
+0.base=/Users/daniel/Desktop/Daniel_Kalemi_20170259_CS300_Project/Android-Sudoku-master/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

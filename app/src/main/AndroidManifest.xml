@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.daniel.kalemi.android_sudoku">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="me.daniel.kalemi.android_sudoku.MainActivity"
+            android:configChanges="locale">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="me.daniel.kalemi.android_sudoku.GameActivity">
+            <intent-filter>
+                <action android:name="me.daniel.kalemi.GameActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="me.daniel.kalemi.android_sudoku.NewBoardActivity">
+            <intent-filter>
+                <action android:name="me.daniel.kalemi.NewBoardActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="me.daniel.kalemi.android_sudoku.InstructionsActivity">
+            <intent-filter>
+                <action android:name="me.daniel.kalemi.InstructionsActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="me.daniel.kalemi.android_sudoku.ChooseNumberActivity">
+            <intent-filter>
+                <action android:name="me.daniel.kalemi.ChooseNumberActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="me.daniel.kalemi.android_sudoku.GameDifficultyActivity">
+            <intent-filter>
+                <action android:name="me.daniel.kalemi.GameDifficultyActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

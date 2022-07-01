@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_new_board">Shto tabele te re</string>
+    <string name="app_name">Loja Sudoku ne Android - Daniel Kalemi</string>
+    <string name="board_correct">Tabela eshte e Sakte!</string>
+    <string name="board_incorrect">Tabela eshte e Gabuar</string>
+    <string name="british_description">Fotoja e flamurit Britanik</string>
+    <string name="check_board">Kontrollo Tabelen</string>
+    <string name="choose_a_number">Zgjidh numrin qe do vendosesh:</string>
+    <string name="choose_difficulty">ZGJIDH NIVEL VESHTIRESIE:</string>
+    <string name="choose_language">Zgjidh Gjuhen:</string>
+    <string name="choose_number">Zgjidh numer</string>
+    <string name="continue_new_board">Vazhdo</string>
+    <string name="difficulty_easy">E lehte</string>
+    <string name="difficulty_hard">E veshtire</string>
+    <string name="difficulty_normal">Mesatare</string>
+    <string name="fail_new_board">Ruajtja e tabeles deshtoj</string>
+    <string name="go_back_button">Kthehu pas</string>
+    <string name="instructions">Rregullat e Lojes</string>
+    <string name="instructions_1">1. Ne Sudoku qellimi i lojes eshte te plotesosh sakt pjesen e ngelur te tabeles. Numrat varijojne nga 1 te 9 (9x9 Sudoku).</string>
+    <string name="instructions_2">2. Tabela eshte e ndrare ne katrore me te vegjel ku numrat 1-9 duhet te perdoren vetem 1 here.</string>
+    <string name="instructions_3">3. Lejohet qe te perdoret vetem 1 here numrat 1-9 njekohesisht si vertikalisht ashtu edhe horizontalisht.</string>
+    <string name="new_game">Fillo Loje te Re</string>
+    <string name="norwegian_description">Fotoja e flamurit Shqiptar</string>
+    <string name="piece_unsure">Etiketo numrin si "te pasigurt"</string>
+    <string name="place_number">Vendos numrin</string>
+    <string name="remove_piece">Hiq numrin</string>
+    <string name="show_instructions">Trego Instruksionet</string>
+    <string name="start_game">Fillo Lojen</string>
+    <string name="start_piece_error">S'mund te ndryshojme pjesen</string>
+    <string name="successful_new_board">Tabela e re u ruajt</string>
+    <string name="sudoku">Sudoku</string>
+</resources>
